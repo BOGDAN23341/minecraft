@@ -142,7 +142,7 @@ footer {
 
 /* Minecraft Box */
 .minecraft-box {
-    width: 400px;
+    width: 55%;
     background-color: #111;
     color: #fff;
     padding: 20px;
@@ -151,4 +151,10 @@ footer {
     font-family: 'Press Start 2P', cursive;
     text-align: center;
     margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.video-container {
+    margin-left: 30%;
 }
